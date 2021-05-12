@@ -11,7 +11,7 @@ invalid_phone_number = "askldmaj"
 invalid_mail = "kmsaliod.gmail.com"
 invalid_name = "23234"
 invalid_surname = "232321"
-invalid_password = "sdKam232(("
+invalid_password = "sdKams232(("
 
 
 class WizzairRegistration(BaseTest):
